@@ -1,0 +1,6 @@
+questionary
+pre-commit
+requests
+setuptools
+wheel
+commitizen
